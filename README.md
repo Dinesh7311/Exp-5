@@ -10,7 +10,7 @@ To draw the UML diagram for Student Course Enrollment System.
 
 List of Programs:
 
-i) Usecase Diagram
+i) Usercase Diagram
 
 ii)Class Diagram
 
@@ -22,7 +22,7 @@ v)Package Diagram
 
 vi)Sequence Diagram
 # DIAGRAMS:
-## Usecase Diagram
+## Usercase Diagram
 
 ![Screenshot 2025-05-14 084303](https://github.com/user-attachments/assets/0ecb2179-2693-484f-b5c0-9e3238588f3d)
 
